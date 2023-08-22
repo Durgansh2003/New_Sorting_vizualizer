@@ -1,1 +1,1 @@
-# New_Sorting_vizualizer
+Designed and developed a Sorting Visualizer application as a personal project, showcasing strong algorithmic and programming skills. Implemented various sorting algorithms, including Bubble Sort, Merge Sort, and Quick Sort, to visually demonstrate their efficiency and mechanics
